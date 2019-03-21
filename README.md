@@ -6,3 +6,9 @@ https://aws.amazon.com/premiumsupport/knowledge-center/create-and-activate-aws-a
 
 ##### You can also signup for a student pack [Optional]
 https://education.github.com/pack
+
+# Watch the following video on getting started with AWS
+https://www.youtube.com/watch?v=ubCNZRNjhyo
+
+# Watch the following video on getting started with Serverless
+https://www.youtube.com/watch?v=CkbkMznVqQk
