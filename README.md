@@ -1,3 +1,5 @@
-# aws-setup
+# Creating an AWS account
 
-This is some test instruction
+#### Follow the instruction in the link to create your own aws account
+
+https://aws.amazon.com/premiumsupport/knowledge-center/create-and-activate-aws-account/
